@@ -1,0 +1,37 @@
+
+
+Test Environment:
+Identify the test environment requirements including hardware,
+software, network configuration, and any other dependencies.
+Set up the test environment.
+
+Test Objectives:
+Identify the test objectives and expected results for the 
+"Rent a car" functionality. Define acceptance criteria.
+
+Test Scenarios:
+Identify the scenarios that need to be tested such as searching 
+for a car, making a reservation, canceling a reservation,
+and returning a car. Define test data and expected results for each scenario.
+
+Test Cases:
+Develop detailed test cases for each scenario.
+Test cases should include steps to execute, expected results, 
+and actual results.
+
+Test Execution:
+Execute test cases manually.
+Record actual results, including any defects found.
+Retest defects after they are fixed and verify they
+have been resolved.
+
+Test Reporting:
+Report any defects found during testing using a defect tracking tool.
+Provide regular status updates to stakeholders.
+Document all test results and make them available to stakeholders.
+
+Test Completion:
+Analyze the test results to determine if the "Rent a car" 
+functionality meets the defined acceptance criteria.
+Obtain sign-off from stakeholders indicating that the Rent a car 
+functionality has been successfully tested.
