@@ -1,0 +1,36 @@
+
+Positive Scenario: Successfully booking a rental car
+
+Test Objective: To ensure that users can successfully book a rental car 
+using the "Rent a car" form functionality.
+
+Steps:
+
+Navigate to the "Rent a car" section of the Lyft website.
+Enter a pickup location, pickup date and time, and return date and time.
+Select a car from the available options.
+Enter the required information, such as name, email, and phone number.
+Provide payment information and confirm the reservation.
+Verify that the confirmation page displays with the correct booking details.
+
+
+----------------------------------------------------------------------------------
+
+
+Negative Scenario: Booking a rental car with invalid payment information
+
+Test Objective: To ensure that users cannot book a rental car using 
+invalid payment information through the "Rent a car" form functionality.
+
+Steps:
+
+Navigate to the "Rent a car" section of the Lyft website.
+Enter a pickup location, pickup date and time, and return date and time.
+Select a car from the available options.
+Enter the required information, such as name, email, and phone number.
+Enter invalid payment information, such as an expired credit card or an incorrect billing address.
+Attempt to confirm the reservation.
+Verify that the system displays an error message indicating that the payment information is invalid.
+Verify that the reservation is not processed and the user is not charged.
+
+
